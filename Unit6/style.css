@@ -13,7 +13,7 @@ border-image-outset:
 border-image-repeat:
 round round;
 border-image-source:
-url("Unit6/ShadBord.png");
+url("ShadBord.png");
 border-style: solid;
 }
 main {
@@ -21,7 +21,7 @@ main {
   Color: #4d0000
 }
 body {
-  background-image: url("Unit6/ShadBkgd.png");
+  background-image: url("ShadBkgd.png");
   background-size: cover;
 }
 #wrapper {
@@ -30,7 +30,7 @@ body {
   margin-top: 30px;
 }
 ul {
-  list-style-image: url("Unit6/emeraldtoken.png");
+  list-style-image: url("emeraldtoken.png");
 }
 #borderimg {
 border-image-slice:
@@ -42,6 +42,6 @@ border-image-outset:
 border-image-repeat:
 round round;
 border-image-source:
-url("Unit6/ShadBord.png");
+url("ShadBord.png");
 border-style: solid;
 }
