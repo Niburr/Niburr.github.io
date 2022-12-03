@@ -12,7 +12,7 @@
 <h1>
   Your information has been received.
 </h1>
-<form action="/index.html">
+<form action="Unit 11/index.html">
   <input type="submit" value="Back">
 </form>
 </body>
